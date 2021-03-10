@@ -22,8 +22,7 @@ cd dev/
 mkdir FasilkomTI
 ```
 
-Masuk ke folder FasilkomTI
-#### 
+#### Masuk ke folder FasilkomTI
 ```sh
 cd FasilkomTI
 ```
