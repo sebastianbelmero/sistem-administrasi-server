@@ -95,5 +95,5 @@ rm -rf /dev/FasilkomTI
 
 #### Hapus file Coba
 ```sh
-rm Coba
+rm Coba3
 ```
